@@ -1,7 +1,7 @@
-<table>
+<table border="0">
   <tr>
     <td><Img src="res/Assertores_256.png"></td>
-    <td><b>ANDREAS EDMEIER</b></td>
+    <td><h1>ANDREAS EDMEIER</h1></td>
   </tr>
 </table>
 
@@ -21,35 +21,32 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <center>Here are some links to games on which I have worked on.</center>
 
 
-<table>
+<table border="1|0">
   <tr>
     <td><Img src="res/Assertores_256.png"></td>
-    <td>
-### Abteilung F
+    <td><h3>Abteilung F</h3>
 
 This game was created as part of a 48h gameJam called FaceJam.
 
 You're an employee of the Free State Department of Communications and working there as a Fact Checker in the newly established Department F. Your job is to review posts from the public media on their veracity. Decide on this basis whether or not it is Fake News.
 
-[to itch.io](http://royal2flush.itch.io/abteilung-f)
+<a href="http://royal2flush.itch.io/abteilung-f">to itch.io</a>
 
-[to the website](http://abteilung-f.de/)</td>
+<a href="http://abteilung-f.de/">to the website</a></td>
   </tr>
   <tr>
     <td><Img src="res/Assertores_256.png"></td>
-    <td>
-### Pirate arena
+  <td><h3>Pirate arena</h3>
 
 This game was created as part of a 48h intern Games Academy gameJam.
 
 A local 1on1 Pirate Seafight Game.
 
-[to itch.io](https://pommelz.itch.io/pirate-arena)</td>
+<a href="https://pommelz.itch.io/pirate-arena">to itch.io</a></td>
   </tr>
   <tr>
     <td><Img src="res/Assertores_256.png"></td>
-    <td>
-### Hammerjaeger
+  <td><h3>Hammerjaeger</h3>
 
 This game was creaded as a first semester project on the Games Academy
 
@@ -58,9 +55,9 @@ The world has changed...
 Instead of rats and mice, robots invade our homes.
 A former exterminator rises to be the hero to save humanity from destruction. His name is Hammerjaeger and with his mighty hammer he is the only one capable to put an end to the robot terror!
 
-**Hammer ON!**
+<b>Hammer ON!</b>
 
-[to Github repo](https://github.com/Assertores/HammerMan)</td>
+<a href="https://github.com/Assertores/HammerMan">to Github repo</a></td>
   </tr>
 </table>
 
