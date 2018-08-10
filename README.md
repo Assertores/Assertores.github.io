@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td><Img src="res/Assertores_256.png"></td>
+    <td><h1>ANDREAS EDMEIER</h1></td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Assertores/Assertores.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center>Hi. I'm a Game Developer from Germany still in apprenticeship.
 
-### Markdown
+As for now I have experience with the programming languages c, c++ and c#.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Furthermore did I work with Unity, Git, SDL and Qt-Creator.
 
-```markdown
-Syntax highlighted code block
+In my spare time I like to play some music instruments for example Drums, Guitar, Violin.</center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+## <center>Games</center>
 
-- Bulleted
-- List
+<center>Here are some links to games on which I have worked on.</center>
+<br>
+<br>
+<table border="1|0">
+  <tr>
+    <td><Img src="res/Assertores_256.png"></td>
+    <td><p><h3>Abteilung F</h3></p>
+  <p></p>
+  <p>This game was created as part of a 48h gameJam called FaceJam.</p>
+  <p></p>
+<p>You're an employee of the Free State Department of Communications and working there as a Fact Checker in the newly established Department F. Your job is to review posts from the public media on their veracity. Decide on this basis whether or not it is Fake News.</p>
+  <p></p>
+  <table border="0">
+    <tr>
+      <td><a href="http://royal2flush.itch.io/abteilung-f">to itch.io</a></td>
+      <td><a href="http://abteilung-f.de/">to the website</a></td>
+    </tr>
+  </table></td>
+  </tr>
+  <tr>
+    <td><Img src="res/Assertores_256.png"></td>
+  <td><p><h3>Pirate arena</h3></p>
+<p></p>
+<p>This game was created as part of a 48h intern Games Academy gameJam.</p>
+<p></p>
+<p>A local 1on1 Pirate Seafight Game.</p>
+<p></p>
+<table border="0">
+    <tr>
+      <td><a href="https://pommelz.itch.io/pirate-arena">to itch.io</a></td>
+    </tr>
+  </table></td>
+  </tr>
+  <tr>
+    <td><Img src="res/Assertores_256.png"></td>
+  <td><p><h3>Hammerjaeger</h3></p>
+<p></p>
+<p>This game was creaded as a first semester project on the Games Academy</p>
+<p></p>
+<p>The world has changed...</p>
+<p>Instead of rats and mice, robots invade our homes. A former exterminator rises to be the hero to save humanity from destruction. His name is Hammerjaeger and with his mighty hammer he is the only one capable to put an end to the robot terror!</p>
+<p><b>Hammer ON!</b></p>
+<p></p>
+<table border="0">
+    <tr>
+      <td><a href="https://github.com/Assertores/HammerMan">to Github repo</a></td>
+  </tr>
+  </table></td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-1. Numbered
-2. List
+## <center>Contact</center>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Assertores/Assertores.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<center><a href="assertores@web.de">assertores@web.de</a></center>
