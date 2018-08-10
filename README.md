@@ -10,12 +10,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
@@ -32,21 +26,10 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## <center>Games</center>
 
 <center>Here are some links to games on which I have worked on.</center>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <table border="1|0">
@@ -102,13 +85,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## <center>Support or Contact</center>
+## <center>Contact</center>
 
-<center>Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.</center>
+<center><a href="assertores@web.de">assertores@web.de</a></center>
