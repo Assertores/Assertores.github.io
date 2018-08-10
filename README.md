@@ -5,6 +5,11 @@
 | ------------- | ------------- |
 |||
 
+<table>
+  <tr>
+    <th>![Image](res/Assertores_256.png)</th>
+    <th># ANDREAS EDMEIER</th>
+
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
