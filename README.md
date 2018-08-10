@@ -7,8 +7,10 @@
 
 <table>
   <tr>
-    <th>![Image](res/Assertores_256.png)</th>
-    <th># ANDREAS EDMEIER</th>
+    <th><Img src="res/Assertores_256.png"></th>
+    <th><b>ANDREAS EDMEIER</b></th>
+  </tr>
+</table>
 
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
