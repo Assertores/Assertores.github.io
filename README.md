@@ -3,8 +3,7 @@
 
 | ![Image](res/Assertores_256.png)  | ANDREAS EDMEIER |
 | ------------- | ------------- |
-| Content Cell  | ![Image](res/Assertores_256.png)  |
-| Content Cell  | Content Cell  |
+|||
 
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
@@ -20,6 +19,12 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 ## <center>Games</center>
 
 <center>Here are some links to games on which I have worked on.</center>
+
+
+|  |  |
+| ------------- | ------------- |
+| ![Image](res/Assertores_256.png)  | ### Abteilung F This game was created as part of a 48h gameJam called FaceJam. You're an employee of the Free State Department of Communications and working there as a Fact Checker in the newly established Department F. Your job is to review posts from the public media on their veracity. Decide on this basis whether or not it is Fake News. [to itch.io](http://royal2flush.itch.io/abteilung-f) [to the website](http://abteilung-f.de/)  |
+| ![Image](res/Assertores_256.png)  | ### Pirate arena This game was created as part of a 48h intern Games Academy gameJam. A local 1on1 Pirate Seafight Game. [to itch.io](https://pommelz.itch.io/pirate-arena) |
 
 ![Image](res/Assertores_256.png)
 
