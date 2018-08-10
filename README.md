@@ -1,8 +1,14 @@
 | ANDREAS EDMEIER  | ![Image](res/Assertores_256.png) |
 | ------------- | ------------- |
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
-## GAME-DESIGNER/GAME-PROGRAMMER
+
+<center> ## GAME-DESIGNER/GAME-PROGRAMMER </center>
+
 
 <center>Hi. I'm a Game Developer from Germany still in apprenticeship.
 
@@ -12,11 +18,8 @@ Furthermore did I work with Unity, Git, SDL and Qt-Creator.
 
 In my spare time I like to play some music instruments for example Drums, Guitar, Violin.</center>
 
-
--> test text <-
-
 ## Games
-
+Here are some links to games on which I have worked on.
 
 ```markdown
 Syntax highlighted code block
