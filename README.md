@@ -41,7 +41,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
   <p></p>
 <p>You're an employee of the Free State Department of Communications and working there as a Fact Checker in the newly established Department F. Your job is to review posts from the public media on their veracity. Decide on this basis whether or not it is Fake News.</p>
   <p></p>
-  <table border="0">
+  <table align="center">
     <tr>
       <td><a href="http://royal2flush.itch.io/abteilung-f">to itch.io</a></td>
       <td><a href="http://abteilung-f.de/">to the website</a></td>
@@ -56,7 +56,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <p></p>
 <p>A local 1on1 Pirate Seafight Game.</p>
 <p></p>
-<table border="0">
+<table align="center">
     <tr>
       <td><a href="https://pommelz.itch.io/pirate-arena">to itch.io</a></td>
     </tr>
@@ -72,7 +72,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <p>Instead of rats and mice, robots invade our homes. A former exterminator rises to be the hero to save humanity from destruction. His name is Hammerjaeger and with his mighty hammer he is the only one capable to put an end to the robot terror!</p>
 <p><b>Hammer ON!</b></p>
 <p></p>
-<table border="0">
+<table align="center">
     <tr>
       <td><a href="https://github.com/Assertores/HammerMan">to Github repo</a></td>
   </tr>
