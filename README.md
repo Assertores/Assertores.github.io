@@ -1,14 +1,22 @@
-## Welcome to GitHub Pages
+| ANDREAS EDMEIER  | ![Image](res/Assertores_256.png) |
+| ------------- | ------------- |
 
-You can use the [editor on GitHub](https://github.com/Assertores/Assertores.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## GAME-DESIGNER/GAME-PROGRAMMER
 
-### Markdown
+<center>Hi. I'm a Game Developer from Germany still in apprenticeship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As for now I have experience with the programming languages c, c++ and c#.
 
-[Image](res/Assertores_256.png)
+Furthermore did I work with Unity, Git, SDL and Qt-Creator.
+
+In my spare time I like to play some music instruments for example Drums, Guitar, Violin.</center>
+
+
+-> test text <-
+
+## Games
+
 
 ```markdown
 Syntax highlighted code block
