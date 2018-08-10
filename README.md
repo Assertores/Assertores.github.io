@@ -1,9 +1,9 @@
 | ANDREAS EDMEIER  | ![Image](res/Assertores_256.png) |
 | ------------- | ------------- |
 
-| First Header  | Second Header |
+| ![Image](res/Assertores_256.png)  | ANDREAS EDMEIER |
 | ------------- | ------------- |
-| Content Cell  | Content Cell ![Image](res/Assertores_256.png)  |
+| Content Cell  | ![Image](res/Assertores_256.png)  |
 | Content Cell  | Content Cell  |
 
 
