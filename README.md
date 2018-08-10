@@ -3,15 +3,11 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
+| Content Cell  | Content Cell ![Image](res/Assertores_256.png)  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
-<center> ## GAME-DESIGNER/GAME-PROGRAMMER </center>
-
-## <center> test center Headline </center>
-
-text
+## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
 <center>Hi. I'm a Game Developer from Germany still in apprenticeship.
 
@@ -21,8 +17,9 @@ Furthermore did I work with Unity, Git, SDL and Qt-Creator.
 
 In my spare time I like to play some music instruments for example Drums, Guitar, Violin.</center>
 
-## Games
-Here are some links to games on which I have worked on.
+## <center>Games</center>
+
+<center>Here are some links to games on which I have worked on.</center>
 
 ![Image](res/Assertores_256.png)
 
