@@ -34,7 +34,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <br>
 <table border="1|0">
   <tr>
-    <td><Img src="res/Abteilung_F.jpg"></td>
+    <td><Img src="res/Abteilung_F.jpg" width="350"></td>
     <td><p><h3>Abteilung F</h3></p>
   <p></p>
   <p>This game was created as part of a 48h gameJam called FaceJam.</p>
@@ -49,7 +49,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
   </table></td>
   </tr>
   <tr>
-    <td><Img src="res/PirateArena.png"></td>
+    <td><Img src="res/PirateArena.png" width="350"></td>
   <td><p><h3>Pirate arena</h3></p>
 <p></p>
 <p>This game was created as part of a 48h intern Games Academy gameJam.</p>
@@ -63,7 +63,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
   </table></td>
   </tr>
   <tr>
-    <td><Img src="res/Hammerjaeger.png"></td>
+    <td><Img src="res/Hammerjaeger.png" width="350"></td>
   <td><p><h3>Hammerjaeger</h3></p>
 <p></p>
 <p>This game was creaded as a first semester project on the Games Academy</p>
