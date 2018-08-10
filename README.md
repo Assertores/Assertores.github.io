@@ -34,7 +34,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
 <br>
 <table border="1|0">
   <tr>
-    <td><Img src="res/Assertores_256.png"></td>
+    <td><Img src="res/Abteilung_F.jpg"></td>
     <td><p><h3>Abteilung F</h3></p>
   <p></p>
   <p>This game was created as part of a 48h gameJam called FaceJam.</p>
