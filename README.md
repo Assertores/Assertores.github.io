@@ -37,7 +37,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
     <td><Img src="res/Abteilung_F.jpg" width="350"></td>
     <td><p><h3>Abteilung F</h3></p>
   <p></p>
-  <p>This game was created as part of a 48h gameJam called FaceJam.</p>
+  <p>This game was created as part of a 48h gameJam called FakeJam.</p>
   <p></p>
 <p>You're an employee of the Free State Department of Communications and working there as a Fact Checker in the newly established Department F. Your job is to review posts from the public media on their veracity. Decide on this basis whether or not it is Fake News.</p>
   <p></p>
