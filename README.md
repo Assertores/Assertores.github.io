@@ -17,9 +17,9 @@
   
 As for now I have experience with the programming languages c, c++ and c#.<br>
 
-Furthermore I worked with Unity, Git, SDL and Qt-Creator.<br>
+Furthermore I worked with Unity, Godot, Git, SDL and Qt-Creator.<br>
 
-In my spare time I like to play some music instruments for example Drums, Guitar and Violin.</center>
+In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.</center>
 <br>
 <br>
 <br>
@@ -52,7 +52,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
     <td><Img src="res/PirateArena.png" width="350"></td>
   <td><p><h3>Pirate arena</h3></p>
 <p></p>
-<p>This game was created as part of a 48h intern Games Academy gameJam.</p>
+<p>This game was created as part of a 48h internal Games Academy gameJam.</p>
 <p></p>
 <p>A local 1on1 Pirate Seafight Game.</p>
 <p></p>
@@ -66,7 +66,7 @@ In my spare time I like to play some music instruments for example Drums, Guitar
     <td><Img src="res/Hammerjaeger.png" width="350"></td>
   <td><p><h3>Hammerjaeger</h3></p>
 <p></p>
-<p>This game was creaded as a first semester project on the Games Academy</p>
+<p>This game was created as a first semester project at the Games Academy</p>
 <p></p>
 <p>The world has changed...</p>
 <p>Instead of rats and mice, robots invade our homes. A former exterminator rises to be the hero to save humanity from destruction. His name is Hammerjaeger and with his mighty hammer he is the only one capable to put an end to the robot terror!</p>
