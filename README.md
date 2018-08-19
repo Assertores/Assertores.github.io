@@ -1,6 +1,10 @@
-<table>
+<table border="0">
   <tr>
-    <td><a href="https://pommelz.itch.io/pirate-arena"></a></td>
+    <td><a href="https://assertores.github.io/#andreas-edmeier">HOME</a></td>
+    <td><a href="https://assertores.github.io/#game-designergame-programmer">ABOUT ME</a></td>
+    <td><h1>ONLINE PORTFOLIO</h1>
+    <td><a href="https://assertores.github.io/#games">GAMES</a></td>
+    <td><a href="https://assertores.github.io/#contact">CONTACT</a></td>
   </tr>
 </table>
 
