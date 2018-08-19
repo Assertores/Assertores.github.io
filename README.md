@@ -5,8 +5,6 @@
     <td><h1>ONLINE PORTFOLIO</h1>
     <td><a href="https://assertores.github.io/#games">GAMES</a></td>
     <td><a href="https://assertores.github.io/#contact">CONTACT</a></td>
-  </tr>
-</table>
 
 <table border="0">
   <tr>
