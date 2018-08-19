@@ -23,8 +23,6 @@
 <br>
 <br>
 <br>
-
-#
 <br>
 <br>
 <br>
@@ -46,8 +44,6 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 <br>
 <br>
 <br>
-
-#
 <br>
 <br>
 <br>
@@ -112,8 +108,6 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 <br>
 <br>
 <br>
-
-#
 <br>
 <br>
 <br>
