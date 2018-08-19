@@ -1,4 +1,4 @@
-<table border="0">
+<table>
   <tr>
     <td><a href="https://assertores.github.io/#andreas-edmeier">HOME</a></td>
     <td><a href="https://assertores.github.io/#game-designergame-programmer">ABOUT ME</a></td>
