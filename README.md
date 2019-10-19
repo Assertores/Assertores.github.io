@@ -17,13 +17,10 @@
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
-Hi. I'm a Game Developer from Germany still in apprenticeship.
-
-As for now I have experience with the programming languages c, c++ and c#.
-
-Furthermore I worked with Unity, Godot, Git, SDL and Qt-Creator.
-
-In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.
+Hi. I'm a Game Developer from Germany still in apprenticeship.<br>
+As for now I have experience with the programming languages c, c++ and c#.<br>
+Furthermore I worked with Unity, Godot, Git, SDL and Qt-Creator.<br>
+In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.<br>
 
 <br>
 <br>
