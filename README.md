@@ -1,4 +1,4 @@
-| [ABOUT ME](https://assertores.github.io/#game-designergame-programmer) | [GAMES](https://assertores.github.io/#games) | ONLINE PORTFOLIO | [CV](https://assertores.github.io/#CurriculumVitae) | [CONTACT](https://assertores.github.io/#contact) |
+| [ABOUT ME](https://assertores.github.io/#game-designergame-programmer) | [GAMES](https://assertores.github.io/#games) | ONLINE PORTFOLIO | [CV](https://assertores.github.io/#curriculum-vitae) | [CONTACT](https://assertores.github.io/#contact) |
 | ----- | ----- | ----- | ----- | ----- |
 | | | | | |
 
