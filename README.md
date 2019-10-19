@@ -4,13 +4,12 @@
 | ----- | ----- | ----- | ----- | ----- |
 | | | | | |
 
-<br>
-<br>
-<br>
-
-| | |
-| ----- | ----- |
-| ![LOGO](res/Assertores_256.png) | <h1>ANDREAS EDMEIER</h1> |
+<table>
+  <tr>
+    <th><img src="res/Assertores_256.png" alt="LOGO"></th>
+    <th><h1>ANDREAS EDMEIER</h1></th>
+  </tr>
+</table>
   
 <br>
 <br>
