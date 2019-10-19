@@ -1,10 +1,10 @@
-| [ABOUT ME](https://assertores.github.io/#game-designergame-programmer) | [GAMES](https://assertores.github.io/#games) | ONLINE PORTFOLIO | [CV](https://assertores.github.io/#curriculum-vitae) | [CONTACT](https://assertores.github.io/#contact) |
+# <center>ANDREAS EDMEIER</center>
+
+| [ABOUT ME](https://assertores.github.io/#game-designergame-programmer) | [GAMES](https://assertores.github.io/#games) | ![LOGO](res/Assertores_256.png) | [CV](https://assertores.github.io/#curriculum-vitae) | [CONTACT](https://assertores.github.io/#contact) |
 | ----- | ----- | ----- | ----- | ----- |
 | | | | | |
 
-# <center>ANDREAS EDMEIER</center>
-
-![LOGO](res/Assertores_256.png)
+<center> **ONLINE PORTFOLIO** </center>
   
 <br>
 <br>
