@@ -1,14 +1,25 @@
-# <center>ANDREAS EDMEIER</center>
 
-| [ABOUT ME](https://assertores.github.io/#game-designergame-programmer) | [GAMES](https://assertores.github.io/#games) | ![LOGO](res/Assertores_256.png) | [CV](https://assertores.github.io/#curriculum-vitae) | [CONTACT](https://assertores.github.io/#contact) |
+
+| [ABOUT ME](https://assertores.github.io/#game-designergame-programmer) | [GAMES](https://assertores.github.io/#games) | ONLINE PORTFOLIO | [CV](https://assertores.github.io/#curriculum-vitae) | [CONTACT](https://assertores.github.io/#contact) |
 | ----- | ----- | ----- | ----- | ----- |
 | | | | | |
 
-<center> **ONLINE PORTFOLIO** </center>
+<br>
+<br>
+<br>
+
+# <center>ANDREAS EDMEIER</center>
+
+![LOGO](res/Assertores_256.png)
+
+| | |
+| ----- | ----- |
+| ![LOGO](res/Assertores_256.png) | ANDREAS EDMEIER |
   
 <br>
 <br>
 <br>
+
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
 Hi. I'm a Game Developer from Germany still in apprenticeship.
@@ -22,6 +33,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 <br>
 <br>
 <br>
+
 ## <center>Games</center>
 
 | | |
@@ -37,6 +49,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 <br>
 <br>
 <br>
+
 ## <center>Curriculum Vitae</center>
 
 | | |
@@ -53,6 +66,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 <br>
 <br>
 <br>
+
 ## <center>Contact</center>
 
 E-mail: [assertores@web.de](assertores@web.de)
