@@ -14,7 +14,7 @@
 
 | | |
 | ----- | ----- |
-| ![LOGO](res/Assertores_256.png) | ANDREAS EDMEIER |
+| ![LOGO](res/Assertores_256.png) | <h1>ANDREAS EDMEIER</h1> |
   
 <br>
 <br>
