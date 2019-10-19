@@ -4,8 +4,9 @@
 
 # <center>ANDREAS EDMEIER</center>
 
-<center>![LOGO](res/Assertores_256.png)</center>
-
+![LOGO](res/Assertores_256.png)
+  
+<br>
 <br>
 <br>
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
@@ -18,6 +19,7 @@ Furthermore I worked with Unity, Godot, Git, SDL and Qt-Creator.
 
 In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.
 
+<br>
 <br>
 <br>
 ## <center>Games</center>
@@ -34,6 +36,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 
 <br>
 <br>
+<br>
 ## <center>Curriculum Vitae</center>
 
 | | |
@@ -47,6 +50,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 | 09.2007 - 07.2013 | **Realschule**<br> - In Altötting (Herzog-Ludwig Realschule) (Bavaria)<br> - Elective Subject: Mathematics, Natural Sciences and Technology |
 | 02.2012 | **Jugend forscht**<br> - Exhibitor in Munich (EADS)<br> - With the Physical battery: a method to store electricity decentralised<br> - Special award for innovation. |
 
+<br>
 <br>
 <br>
 ## <center>Contact</center>
