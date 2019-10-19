@@ -2,11 +2,11 @@
 | ----- | ----- | ----- | ----- | ----- |
 | | | | | |
 
-| ![LOGO](res/Assertores_256.png) | ANDREAS EDMEIER |
-| ----- | ----- |
-| | |
+# <center>ANDREAS EDMEIER</center>
 
-## GAME-DESIGNER/GAME-PROGRAMMER
+![LOGO](res/Assertores_256.png)
+
+## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
 Hi. I'm a Game Developer from Germany still in apprenticeship.
 
@@ -16,7 +16,7 @@ Furthermore I worked with Unity, Godot, Git, SDL and Qt-Creator.
 
 In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.
 
-## Games
+## <center>Games</center>
 
 | | |
 | ----- | ----- |
@@ -28,7 +28,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 | ![LOGO](res/LOGO_HammerJaeger.png) | **Hammerjaeger**<br>This game was created as a first semester project at the Games Academy.<br>Instead of rats and mice, robots invade our homes. A former exterminator rises to be the hero to save humanity from destruction. His name is Hammerjaeger and with his mighty hammer he is the only one capable to put an end to the robot terror!<!-- <br>[More]() --> |
 | ![LOGO](res/LOGO_AbteilungF.png) | **Abteilung-F**<br>This game was created as part of a 48h gameJam called FakeJam.<br>You're an employee of the Free State Department of Communications and working there as a Fact Checker in the newly established Department F. Your job is to review posts from the public media on their veracity. Decide on this basis whether or not it is Fake News.<!-- <br>[More]() --> |
 
-## Curriculum Vitae
+## <center>Curriculum Vitae</center>
 
 | | |
 | ----- | ----- |
@@ -41,6 +41,6 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 | 09.2007 - 07.2013 | **Realschule**<br> - In Altötting (Herzog-Ludwig Realschule) (Bavaria)<br> - Elective Subject: Mathematics, Natural Sciences and Technology |
 | 02.2012 | **Jugend forscht**<br> - Exhibitor in Munich (EADS)<br> - With the Physical battery: a method to store electricity decentralised<br> - Special award for innovation. |
 
-## Contact
+## <center>Contact</center>
 
 E-mail: [assertores@web.de](assertores@web.de)
