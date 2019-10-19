@@ -8,12 +8,13 @@ Instead of rats and mice, robots invade our homes. A former exterminator rises t
 
 ## Project
 
-like all first semester Games Academy projects, it had to choose from a range of arcade games as references. in this case we chose Donkey Kong as our main reference. in Donkey Kong you can pick up a Hammer to smash the oncomming Barrols. we liked the feature so mutch that we made it to our main Game mechanic. our team, consisting of four gamedesigners, worked on it from the 21th of may to the 8th of august every second week.
+Like all first semester Games Academy projects, we had to choose from a range of arcade games as references. In this case we chose Donkey Kong as our main reference. In Donkey Kong you can pick up a Hammer to smash the oncoming Barrels. We liked the feature so much that we made it to our main Game mechanic. Our Team, consisting of four Gamedesigners, worked on it from the 21th of May to the 8th of August every second week.
 
 ## My Work
 
-as i was the only one with programming experience in our team, i took the position of Game Programming.
+As I was the only one with programming experience in our Team, I took the position of Game Programming.
 
 ## Links
 
 [GitHub](https://github.com/Assertores/HammerMan)
+
