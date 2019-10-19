@@ -8,10 +8,6 @@
 <br>
 <br>
 
-# <center>ANDREAS EDMEIER</center>
-
-![LOGO](res/Assertores_256.png)
-
 | | |
 | ----- | ----- |
 | ![LOGO](res/Assertores_256.png) | <h1>ANDREAS EDMEIER</h1> |
