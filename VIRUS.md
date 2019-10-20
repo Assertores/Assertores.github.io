@@ -8,7 +8,7 @@ V.I.R.U.S is an isometric 3D stealth puzzler in which the player is a virus and 
 
 ## Project
 
-The game started out as a much more complex stealth game in which you explore nonlinear levels with a huge tool-set at your disposal, to trick the guards. In the middle of the semester, we noticed that the game isn't fun or interesting to play. So we scratched most of the design and greatly reduced the player abilities. Ae also changed from big nonlinear levels to tight, short, linear tutorial levels, of which we made 8 to showcase every single player ability in isolation. The game now continues to be developed for a commercial release on Smartphones.
+The game started out as a much more complex stealth game in which you explore nonlinear levels with a huge tool-set at your disposal, to trick the guards. In the middle of the semester, we noticed that the game isn't fun or interesting to play. So we scratched most of the design and greatly reduced the player abilities. We also changed from big nonlinear levels to tight, short, linear tutorial levels, of which we made 8 to showcase every single player ability in isolation. The game now continues to be developed for a commercial release on Smartphones.
 
 ## My Work
 
