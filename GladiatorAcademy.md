@@ -12,7 +12,7 @@ This game emerged from an internal Game Jam at Games Academy which happened to s
 
 ## My Work
 
-I chose to work at the front-end as we already had a back-end developer with more experience in this type of games.
+I chose to work as front-end programmer as we already had a back-end developer with more experience with this type of games.
 
 ## Links
 
