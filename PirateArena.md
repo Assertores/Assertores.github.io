@@ -12,7 +12,7 @@ This game emerged from an internal Game Jam at Games Academy. The Theme of the J
 
 ## My Work
 
-During the Game Jam I worked as gameplay programmer on the project but dropped out after the Jam.
+My part was working as a programmer on the initial Game Jam project: Pirate Arena.
 
 ## Links
 
