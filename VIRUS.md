@@ -16,5 +16,5 @@ As game designer, I was tasked to design and document all mechanics, design the 
 
 ## Links
 
-[github.com](https://github.com/Chikinsupu/Virus)
+[zip](https://drive.google.com/open?id=1tY23aaW4tYR7lUXgug3sJjRhc7tde2UN)
 
