@@ -10,7 +10,7 @@
     <th><h1>ANDREAS EDMEIER</h1></th>
   </tr>
 </table>
-  
+
 <br>
 <br>
 <br>
@@ -30,7 +30,7 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 
 | | |
 | ----- | ----- |
-| [![LOGO](res/LOGO_Toastboat.png)](http://www.assertores.me/PewPewBattlefieldArchitect) | [WIP]<br>[**Pew Pew -Battlefield Architect-**](http://www.assertores.me/PewPewBattlefieldArchitect)<br>This game was created as a third semester project as Gameprogrammer at the Games Academy.<br>Battlefield Architect is a World War strategy sim in which the player plays only a planning / supporting role. Help your AI units by securing strategically important positions and help them advance into enemy territory.<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
+| [![LOGO](res/LOGO_BattlefieldArchitect.png)](http://www.assertores.me/PewPewBattlefieldArchitect) | [WIP]<br>[**Pew Pew -Battlefield Architect-**](http://www.assertores.me/PewPewBattlefieldArchitect)<br>This game was created as a third semester project as Gameprogrammer at the Games Academy.<br>Battlefield Architect is a World War strategy sim in which the player plays only a planning / supporting role. Help your AI units by securing strategically important positions and help them advance into enemy territory.<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
 | [![LOGO](res/LOGO_FloodRacer.png)](http://www.assertores.me/FloodRacer) | [**Flood Racer**](http://www.assertores.me/FloodRacer)<br>This game was created as part of a 48h internal Games Academy gameJam.<br>Flood Racer is a endless racing game where you have to escape a giant tsunami wave through a breathtaking low-poly city.<br>[More](http://www.assertores.me/FloodRacer) |
 | [![LOGO](res/LOGO_Toastboat.png)](http://www.assertores.me/PewPewBattleColosseum) | [**Pew Pew -Battle Colosseum-**](http://www.assertores.me/PewPewBattleColosseum)<br>This game was created as a second semester project as Gameprogrammer at the Games Academy.<br>Pew Pew Battle Colosseum is a funny 2D PvP Shooter in a distinct comic book style arena. Use the recoil of your weapon to navigate through a low gravity environment and shoot your opponents down.<br>[More](http://www.assertores.me/PewPewBattleColosseum) |
 | [![LOGO](res/LOGO_GladiatorAcademy.png)](http://www.assertores.me/PewPewBattleColosseum) | [**Gladiator Academy**](http://www.assertores.me/PewPewBattleColosseum)<br>This game was created as part of a 48h internal Games Academy gameJam.<br>The Gladiator Academy has an ongoing competition with the School for Gladiators. You are hired as the new manager and the Academy’s fate lies in your hands. Train your Gladiators for upcoming arena battles, cure your survivors or recruit fresh meat to raise the Academy’s Glory.<br>[More](http://www.assertores.me/GladiatorAcademy) |
@@ -63,3 +63,5 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 ## <center>Contact</center>
 
 E-mail: [assertores@web.de](assertores@web.de)
+
+LinkedIn: [in/andreas-edmeier](http://www.linkedin.com/in/andreas-edmeier)
