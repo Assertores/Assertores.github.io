@@ -19,7 +19,7 @@
 
 Hi. I'm a Game Developer from Germany still in apprenticeship.<br>
 As for now I have experience with the programming languages c, c++ and c#.<br>
-Furthermore I worked with Unity, Godot, Git, SDL and Qt-Creator.<br>
+Furthermore I worked with Unity, Unreal, Godot, Git, SDL and Visual Studio.<br>
 In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.<br>
 
 <br>
@@ -30,7 +30,8 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 
 | | |
 | ----- | ----- |
-| [![LOGO](res/LOGO_BattlefieldArchitect.png)](http://www.assertores.me/PewPewBattlefieldArchitect) | [WIP]<br>[**Pew Pew -Battlefield Architect-**](http://www.assertores.me/PewPewBattlefieldArchitect)<br>This game was created as a third semester project as Gameprogrammer at the Games Academy.<br>Battlefield Architect is a World War strategy sim in which the player plays only a planning / supporting role. Help your AI units by securing strategically important positions and help them advance into enemy territory.<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
+| [![LOGO](res/LOGO_Kiru.png)](http://www.assertores.me/Kiru) | [**Kiru**](http://www.assertores.me/Kiru)<br>This game was created as part of the GMTK gameJam.<br>Dear Bonsai Lover,<br>Please take care of our little friend we would like to see him at the next bonsai championship.<br>It's an unique tree, growing quite fast.<br>Be sure he has enough leaves but not too many!<br>Keep it balanced to gain points and dont let things go out of control!<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
+| [![LOGO](res/LOGO_BattlefieldArchitect.png)](http://www.assertores.me/PewPewBattlefieldArchitect) | [**Pew Pew -Battlefield Architect-**](http://www.assertores.me/PewPewBattlefieldArchitect)<br>This game was created as a third semester project as Gameprogrammer at the Games Academy.<br>Battlefield Architect is a World War strategy sim in which the player plays only a planning / supporting role. Help your AI units by securing strategically important positions and help them advance into enemy territory.<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
 | [![LOGO](res/LOGO_FloodRacer.png)](http://www.assertores.me/FloodRacer) | [**Flood Racer**](http://www.assertores.me/FloodRacer)<br>This game was created as part of a 48h internal Games Academy gameJam.<br>Flood Racer is a endless racing game where you have to escape a giant tsunami wave through a breathtaking low-poly city.<br>[More](http://www.assertores.me/FloodRacer) |
 | [![LOGO](res/LOGO_Toastboat.png)](http://www.assertores.me/PewPewBattleColosseum) | [**Pew Pew -Battle Colosseum-**](http://www.assertores.me/PewPewBattleColosseum)<br>This game was created as a second semester project as Gameprogrammer at the Games Academy.<br>Pew Pew Battle Colosseum is a funny 2D PvP Shooter in a distinct comic book style arena. Use the recoil of your weapon to navigate through a low gravity environment and shoot your opponents down.<br>[More](http://www.assertores.me/PewPewBattleColosseum) |
 | [![LOGO](res/LOGO_GladiatorAcademy.png)](http://www.assertores.me/PewPewBattleColosseum) | [**Gladiator Academy**](http://www.assertores.me/PewPewBattleColosseum)<br>This game was created as part of a 48h internal Games Academy gameJam.<br>The Gladiator Academy has an ongoing competition with the School for Gladiators. You are hired as the new manager and the Academy’s fate lies in your hands. Train your Gladiators for upcoming arena battles, cure your survivors or recruit fresh meat to raise the Academy’s Glory.<br>[More](http://www.assertores.me/GladiatorAcademy) |
