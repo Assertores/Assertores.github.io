@@ -8,7 +8,7 @@ Battlefield Architect is a World War strategy Sim in which the player plays a pl
 
 ## Project
 
-[WIP]
+This game project was mainly intended to serve as a learning experience. Therefore the scope was quite big for a semester project, as it includes a huge Utility based AI system. Huge calculations were solved by compute shader and all this in a self-written dedicated server network system. This project was made by one Game Designer, one Producer, three Programmers and two Artists.
 
 ## My Work
 
