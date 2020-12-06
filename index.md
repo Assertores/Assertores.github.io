@@ -10,26 +10,25 @@
     <th><h1>ANDREAS EDMEIER</h1></th>
   </tr>
 </table>
-
 <br>
 <br>
 <br>
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
-Hi. I'm a Game Developer from Germany still in apprenticeship.<br>
+Hi. I'm a Game Developer from Germany currently working for Ubisoft Blue Byte.<br>
 As for now I have experience with the programming languages c, c++ and c#.<br>
-Furthermore I worked with Unity, Unreal, Godot, Git, SDL and Visual Studio.<br>
-In my spare time I like to play some musical instruments for example Drums, Guitar and Violin.<br>
-
+Furthermore I worked with Unity, Unreal, Git, SDL, GTest and Visual Studio.<br>
+Astronomy and space flight nerd, likes to play some musical instruments for example Drums and Guitar.<br>
 <br>
 <br>
 <br>
 
-## <center>Games</center>
+## <center>Projecte</center>
 
 | | |
 | ----- | ----- |
+| [![LOGO](res/LOGO_UbisoftConnect.png)](http://www.assertores.me/UbisoftConnect) | [**Uisoft Connect**](http://www.assertores.me/UbisoftConnect)<br>Ubisoft Connect is the ecosystem of players services for Ubisoft games across all platforms. It aims at giving the best environment for all players to enjoy their games and connect with each other whatever the device.<br>[More](http://www.assertores.me/UbisoftConnect) |
 | [![LOGO](res/LOGO_Kiru.png)](http://www.assertores.me/Kiru) | [**Kiru**](http://www.assertores.me/Kiru)<br>This game was created as part of the GMTK gameJam.<br>Dear Bonsai Lover,<br>Please take care of our little friend we would like to see him at the next bonsai championship.<br>It's an unique tree, growing quite fast.<br>Be sure he has enough leaves but not too many!<br>Keep it balanced to gain points and dont let things go out of control!<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
 | [![LOGO](res/LOGO_BattlefieldArchitect.png)](http://www.assertores.me/PewPewBattlefieldArchitect) | [**Pew Pew -Battlefield Architect-**](http://www.assertores.me/PewPewBattlefieldArchitect)<br>This game was created as a third semester project as Gameprogrammer at the Games Academy.<br>Battlefield Architect is a World War strategy sim in which the player plays only a planning / supporting role. Help your AI units by securing strategically important positions and help them advance into enemy territory.<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
 | [![LOGO](res/LOGO_FloodRacer.png)](http://www.assertores.me/FloodRacer) | [**Flood Racer**](http://www.assertores.me/FloodRacer)<br>This game was created as part of a 48h internal Games Academy gameJam.<br>Flood Racer is a endless racing game where you have to escape a giant tsunami wave through a breathtaking low-poly city.<br>[More](http://www.assertores.me/FloodRacer) |
@@ -48,7 +47,8 @@ In my spare time I like to play some musical instruments for example Drums, Guit
 
 | | |
 | ----- | ----- |
-| 04.2018 - Ongoing | **Games Academy**<br> - degree in Game Design and Game Programming.<br> - In Berlin |
+| 10.2020 - Ongoing | **Work at Ubisoft Blue Byte**<br> - In Düsseldorf<br> - As Junior C++ Application Programmer<br> - worked on Client |
+| 04.2018 - 09.2020 | **Games Academy**<br> - In Berlin<br> - degree in Game Design and Game Programming. |
 | 04.2018 - 11.2018 | **Work on Abteilung-F**<br> - As a Game Designer and Programmer<br> - Exhibitor on a variety of exhibitions (Play18 Festival, GamesCom, Talk and Play) |
 | 12.2013 - 04.2018 | **Volunteer firefighter**<br> - Voluntary service to the community in Neukirchen/Hirten (Bavaria)<br> - Bronze badge<br> - Truppmann I education |
 | 09.2013 - 04.2018 | **Apprenticeship and Work at Schwanner GmbH**<br> - In Hirten (Bavaria)<br> - As Technical Draftsperson Subject Area: Steel and Metal Construction Engineering |
