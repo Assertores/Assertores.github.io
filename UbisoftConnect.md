@@ -16,5 +16,5 @@ As a Junior C++ Application Programmer I worked on different aspects of the clie
 
 ## Links
 
-[website](ubisoftconnect.com)
+[website](http://www.ubisoftconnect.com)
 
