@@ -1,6 +1,6 @@
 # Tiao
 
-![LOGO](res/LOGO_Tiao.png)
+![LOGO](res/Tiao.png)
 
 ## Vision Statement
 
