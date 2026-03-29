@@ -16,8 +16,6 @@
 
 ## <center>GAME-DESIGNER/GAME-PROGRAMMER</center>
 
-
-[link](file:///c:/)
 Hi. I'm a Game Developer from Germany currently working for Ubisoft Blue Byte.<br>
 As for now I have experience with the programming languages c, c++ and c#.<br>
 Furthermore I worked with Unity, Unreal, Git, SDL, GTest and Visual Studio.<br>
@@ -30,6 +28,7 @@ Astronomy and space flight nerd, likes to play some musical instruments for exam
 
 | | |
 | ----- | ----- |
+| [![LOGO](res/LOGO_Tiao.png)](http://www.assertores.me/Tiao) | [**Tiao**](http://playtiao.com)<br>Tiao is a abstract stretegy board game, that got a web implimentatin, to play against your friends online.
 | [![LOGO](res/LOGO_UbisoftConnect.png)](http://www.assertores.me/UbisoftConnect) | [**Uisoft Connect**](http://www.assertores.me/UbisoftConnect)<br>Ubisoft Connect is the ecosystem of players services for Ubisoft games across all platforms. It aims at giving the best environment for all players to enjoy their games and connect with each other whatever the device.<br>[More](http://www.assertores.me/UbisoftConnect) |
 | [![LOGO](res/LOGO_Kiru.png)](http://www.assertores.me/Kiru) | [**Kiru**](http://www.assertores.me/Kiru)<br>This game was created as part of the GMTK gameJam.<br>Dear Bonsai Lover,<br>Please take care of our little friend we would like to see him at the next bonsai championship.<br>It's an unique tree, growing quite fast.<br>Be sure he has enough leaves but not too many!<br>Keep it balanced to gain points and dont let things go out of control!<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
 | [![LOGO](res/LOGO_BattlefieldArchitect.png)](http://www.assertores.me/PewPewBattlefieldArchitect) | [**Pew Pew -Battlefield Architect-**](http://www.assertores.me/PewPewBattlefieldArchitect)<br>This game was created as a third semester project as Gameprogrammer at the Games Academy.<br>Battlefield Architect is a World War strategy sim in which the player plays only a planning / supporting role. Help your AI units by securing strategically important positions and help them advance into enemy territory.<br>[More](http://www.assertores.me/PewPewBattlefieldArchitect) |
@@ -49,7 +48,8 @@ Astronomy and space flight nerd, likes to play some musical instruments for exam
 
 | | |
 | ----- | ----- |
-| 10.2020 - Ongoing | **Work at Ubisoft Blue Byte**<br> - In Düsseldorf<br> - As Junior C++ Application Programmer<br> - worked on Client |
+| 07.2024 - Ongoing | **Volunteer firefighter**<br> - Voluntary service at TKZ in Düsseldorf(NRW)<br> - Oberfeuerwehrmann education |
+| 10.2020 - Ongoing | **Work at Ubisoft Blue Byte**<br> - In Düsseldorf(NRW)<br> - As Junior C++ Application Programmer<br> - worked on Client |
 | 04.2018 - 09.2020 | **Games Academy**<br> - In Berlin<br> - degree in Game Design and Game Programming. |
 | 04.2018 - 11.2018 | **Work on Abteilung-F**<br> - As a Game Designer and Programmer<br> - Exhibitor on a variety of exhibitions (Play18 Festival, GamesCom, Talk and Play) |
 | 12.2013 - 04.2018 | **Volunteer firefighter**<br> - Voluntary service to the community in Neukirchen/Hirten (Bavaria)<br> - Bronze badge<br> - Truppmann I education |
